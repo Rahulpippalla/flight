@@ -2,7 +2,7 @@
     CLEAR: es_travel, et_booking, et_booking_supplement, et_messages.
 
     " Numbering mode has to be either Early or Late.
-    " Demo Test 2
+    " Demo Test BAU
     ASSERT iv_numbering_mode EQ zif_flight_legacy=>numbering_mode-early OR
            iv_numbering_mode EQ zif_flight_legacy=>numbering_mode-late.
 
