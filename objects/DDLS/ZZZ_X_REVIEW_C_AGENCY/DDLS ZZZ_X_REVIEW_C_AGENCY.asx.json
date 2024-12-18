@@ -11,7 +11,7 @@
     "AS4TIME":"00:00:00",
     "SOURCE":"extend view entity ZC_AgencyTP with\n{\n  @UI.facet: [\n      {\n        id:            'Review',\n        purpose:       #STANDARD,\n        type:          #LINEITEM_REFERENCE,\n        label:         'Review',\n        position:      20,\n        targetElement: 'ZZZ_ReviewZAG'\n      }\n    ]\n  Agency.ZZZ_ReviewZAG : redirected to composition child ZZZ_C_Agency_ReviewTP\n}\n/*+[internal] {\n\"BASEINFO\":\n{\n\"FROM\":\n[\n\"I_COUNTRY\",\n\"I_COUNTRYTEXT\",\n\"ZR_AGENCYTP\"\n],\n\"ASSOCIATED\":\n[\n\"ZZZ_C_AGENCY_REVIEWTP\"\n],\n\"BASE\":\n[\n\"ZR_AGENCYTP\"\n],\n\"ANNO_REF\":\n[],\n\"SCALAR_FUNCTION\":\n[],\n\"VERSION\":0,\n\"ANNOREF_EVALUATION_ERROR\":\"\"\n}\n}*/",
     "PARENTNAME":"ZC_AGENCYTP",
-    "ACTFLAG":"U",
+    "ACTFLAG":"",
     "CHGFLAG":"",
     "SOURCE_TYPE":"X",
     "SOURCE_ORIGIN":"0",
