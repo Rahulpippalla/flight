@@ -4,7 +4,7 @@
     " Numbering mode has to be either Early or Late.
 
     " Demo Test 2
-    " changes on dev 24th dec
+    " changes on dev 24th dec - 2
 
 
     ASSERT iv_numbering_mode EQ zif_flight_legacy=>numbering_mode-early OR
