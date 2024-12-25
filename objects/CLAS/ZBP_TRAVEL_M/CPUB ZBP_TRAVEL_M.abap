@@ -3,4 +3,4 @@ class ZBP_TRAVEL_M definition
   for behavior of ZI_TRAVEL_M .
 
 public section.
-*TEST
+*TEST - 1
