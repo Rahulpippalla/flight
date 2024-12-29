@@ -3,5 +3,5 @@
     lcl_booking_buffer=>get_instance( )->save( ).
     lcl_booking_supplement_buffer=>get_instance( )->save( ).
     initialize( ).
-*    from local change
+*    from local change 2
   ENDMETHOD.
