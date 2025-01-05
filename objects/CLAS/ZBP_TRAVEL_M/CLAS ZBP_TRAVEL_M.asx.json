@@ -30,7 +30,7 @@
     "CLSNAME":"ZBP_TRAVEL_M",
     "VERSION":1,
     "CATEGORY":6,
-    "EXPOSURE":2,
+    "EXPOSURE":0,
     "STATE":1,
     "RELEASE":0,
     "AUTHOR":"",
@@ -198,7 +198,6 @@
    {
     "NAME":"ZBP_TRAVEL_M==================CP",
     "EDTX":"X",
-    "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"K",
@@ -223,7 +222,6 @@
    },
    {
     "NAME":"ZBP_TRAVEL_M==================CU",
-    "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
