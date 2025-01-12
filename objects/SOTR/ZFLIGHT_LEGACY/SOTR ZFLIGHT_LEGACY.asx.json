@@ -4,6 +4,23 @@
   "data":
   [
    {
+    "CONCEPT":"2D9301C9B1051EEFA4AC1F1C8E496A73",
+    "PAKET":"ZFLIGHT_LEGACY",
+    "CREA_LAN":"E",
+    "TRALA_TYPE":"1",
+    "ALIAS_NAME":"",
+    "CREA_NAME":"RAHUL",
+    "CREA_TSTUT":"20241023170515",
+    "CHAN_NAME":"RAHUL",
+    "CHAN_TSTUT":"20241023170515",
+    "LST_IMPORT":"0000-00-00",
+    "SYSTEM_ID":"",
+    "TRALA_VEC":"",
+    "CATGY_VEC":"",
+    "OBJID_VEC":"AQAAAAAAAAAA",
+    "TEXT_TYPE":""
+   },
+   {
     "CONCEPT":"7CFE90B75C701EDB8EDA9162A5F47EC2",
     "PAKET":"ZFLIGHT_LEGACY",
     "CREA_LAN":"E",
@@ -43,6 +60,29 @@
   "table":"SOTR_TEXT",
   "data":
   [
+   {
+    "CONCEPT":"2D9301C9B1051EEFA4AC1F1C8E496A73",
+    "LANGU":"E",
+    "OBJECT":"",
+    "LFD_NUM":1,
+    "FLAG_CNTXT":"X",
+    "LAST_REL":"",
+    "LAST_IREL":"",
+    "COUNTRY":"",
+    "EXTENSION":"",
+    "ADD_CNTXT":"",
+    "CREA_NAME":"RAHUL",
+    "CREA_TSTUT":"20241023170515",
+    "CHAN_NAME":"RAHUL",
+    "CHAN_TSTUT":"20241023170515",
+    "SOURCE_LAN":"",
+    "FLAG_COM":"",
+    "FLAG_CORR":"",
+    "STATUS":"R",
+    "VERSION":2,
+    "LENGTH":255,
+    "TEXT":"Enhancement Spot for the DataGenerator in ZFLIGHT"
+   },
    {
     "CONCEPT":"7CFE90B75C701EDB8EDA9162A5F47EC2",
     "LANGU":"E",
@@ -88,6 +128,36 @@
     "VERSION":6,
     "LENGTH":255,
     "TEXT":"BAdI to be called after the legecy data has been generated"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"SOTR",
+    "OBJ_NAME":"ZFLIGHT_LEGACY",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAHUL",
+    "SRCDEP":"",
+    "DEVCLASS":"ZFLIGHT_LEGACY",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-10-23",
+    "CHECK_DATE":"2024-10-23",
+    "CHECK_CFG":""
    }
   ]
  }

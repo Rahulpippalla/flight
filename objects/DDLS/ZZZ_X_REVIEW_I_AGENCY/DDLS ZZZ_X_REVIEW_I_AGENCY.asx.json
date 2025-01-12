@@ -11,7 +11,7 @@
     "AS4TIME":"00:00:00",
     "SOURCE":"extend view entity ZI_AgencyTP with\n{\n  Agency.ZZZ_ReviewZAG : redirected to composition child ZZZ_I_Agency_ReviewTP\n}\n/*+[internal] {\n\"BASEINFO\":\n{\n\"FROM\":\n[\n\"ZR_AGENCYTP\"\n],\n\"ASSOCIATED\":\n[\n\"ZZZ_I_AGENCY_REVIEWTP\"\n],\n\"BASE\":\n[\n\"ZR_AGENCYTP\"\n],\n\"ANNO_REF\":\n[],\n\"SCALAR_FUNCTION\":\n[],\n\"VERSION\":0,\n\"ANNOREF_EVALUATION_ERROR\":\"\"\n}\n}*/",
     "PARENTNAME":"ZI_AGENCYTP",
-    "ACTFLAG":"U",
+    "ACTFLAG":"",
     "CHGFLAG":"",
     "SOURCE_TYPE":"X",
     "SOURCE_ORIGIN":"0",
