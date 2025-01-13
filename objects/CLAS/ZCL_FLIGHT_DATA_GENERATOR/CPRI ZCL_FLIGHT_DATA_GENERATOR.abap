@@ -6,6 +6,7 @@
       "! @parameter iv_seats_occupied_percent | occupied seats
       "! @parameter iv_flight_distance | flight distance in kilometer
       "! @parameter rv_price | calculated flight price
+      "! changes from s4d
       calculate_flight_price
         IMPORTING
           iv_seats_occupied_percent TYPE zplane_seats_occupied
