@@ -8,6 +8,18 @@
     "SPRAS":"E",
     "KATR10":"10C",
     "VTEXT":"RAHUL"
+   },
+   {
+    "MANDT":"___",
+    "SPRAS":"E",
+    "KATR10":"10D",
+    "VTEXT":"Common Change"
+   },
+   {
+    "MANDT":"___",
+    "SPRAS":"E",
+    "KATR10":"10F",
+    "VTEXT":"Different Changes"
    }
   ]
  }
