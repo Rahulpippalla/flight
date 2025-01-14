@@ -44,7 +44,21 @@
      }
     ],
     "hash":"IuFPx87nG9r1yoKVUs4/QYMBcms="
-   }
+   },
+    {
+      "columns":
+      [
+        {
+          "key":"MANDT",
+          "value":"___"
+        },
+        {
+          "key":"KATR10",
+          "value":"10F"
+        }
+      ],
+      "hash":"gelPydCQNdQd5xmoKxr8Ppxob1k="
+    }
   ]
  },
  {
@@ -67,7 +81,7 @@
       "value":"10C"
      }
     ],
-    "hash":"YrjNyHqhj31RUxOWPHU5LVHWqaE="
+    "hash":"6JX5LcAY4nC35tpRxkI36vQ07Ac="
    },
    {
     "columns":
@@ -100,11 +114,29 @@
      },
      {
       "key":"KATR10",
-      "value":"10E"
+      "value":"10F"
      }
     ],
-    "hash":"RxPIczO7jpr1WS6+LAKnei4IaTQ="
-   }
+    "hash":"it5QDuHeVAgkC+NRah3SNZXpTA4="
+   },
+    {
+      "columns":
+      [
+        {
+          "key":"MANDT",
+          "value":"___"
+        },
+        {
+          "key":"SPRAS",
+          "value":"E"
+        },
+        {
+          "key":"KATR10",
+          "value":"10E"
+        }
+      ],
+      "hash":"RxPIczO7jpr1WS6+LAKnei4IaTQ="
+    }
   ]
  }
 ]
