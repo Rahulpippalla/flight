@@ -1,0 +1,22 @@
+[
+ {
+  "table":"T001W",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"WERKS",
+      "value":"0003"
+     }
+    ],
+    "hash":"woMlNmgdUnnB6pj8ZSBDF6jZAt4="
+   }
+  ]
+ }
+]
