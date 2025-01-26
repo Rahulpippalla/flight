@@ -1,0 +1,36 @@
+[
+ {
+  "table":"T880",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"RCOMP",
+      "value":"RAHUL"
+     }
+    ],
+    "hash":"VRaR4ZUow1u+Llp/vLMiX/qukiY="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"RCOMP",
+      "value":"SLE0"
+     }
+    ],
+    "hash":"2mZzgmfZS8eCcPTSCjGZ1hxW5gg="
+   }
+  ]
+ }
+]
