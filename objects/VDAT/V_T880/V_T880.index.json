@@ -1,59 +1,64 @@
 [
-  {
-    "table": "T880",
-    "index": [
-      {
-        "columns": [
-          {
-            "key": "MANDT",
-            "value": "___"
-          },
-          {
-            "key": "RCOMP",
-            "value": "APPLE"
-          }
-        ],
-        "hash": "+kUlTFSuTIsQDvK4+Uvsj2X9JLY="
-      },
-      {
-        "columns": [
-          {
-            "key": "MANDT",
-            "value": "___"
-          },
-          {
-            "key": "RCOMP",
-            "value": "RAHUL"
-          }
-        ],
-        "hash": "VRaR4ZUow1u+Llp/vLMiX/qukiY="
-      },
-      {
-        "columns": [
-          {
-            "key": "MANDT",
-            "value": "___"
-          },
-          {
-            "key": "RCOMP",
-            "value": "NIRAN"
-          }
-        ],
-        "hash": "Dyb/xK3nANAfbkWsaxRYy8+Oylc="
-      },
-      {
-        "columns": [
-          {
-            "key": "MANDT",
-            "value": "___"
-          },
-          {
-            "key": "RCOMP",
-            "value": "SLE0"
-          }
-        ],
-        "hash": "2mZzgmfZS8eCcPTSCjGZ1hxW5gg="
-      }
-    ]
-  }
+ {
+  "table":"T880",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"RCOMP",
+      "value":"APPLE"
+     }
+    ],
+    "hash":"+kUlTFSuTIsQDvK4+Uvsj2X9JLY="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"RCOMP",
+      "value":"NIRAN"
+     }
+    ],
+    "hash":"Dyb/xK3nANAfbkWsaxRYy8+Oylc="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"RCOMP",
+      "value":"RAHUL"
+     }
+    ],
+    "hash":"VRaR4ZUow1u+Llp/vLMiX/qukiY="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"RCOMP",
+      "value":"SLE0"
+     }
+    ],
+    "hash":"2mZzgmfZS8eCcPTSCjGZ1hxW5gg="
+   }
+  ]
+ }
 ]
