@@ -4,12 +4,9 @@
     " Numbering mode has to be either Early or Late.
 
     " Demo Test 2
-<<<<<<< HEAD
-    " changes on dev Jan 7th- 2
-=======
     " changes on dev jan 27th - 2
->>>>>>> branch 'dev' of https://github.com/Rahulpippalla/flight
 
+    " changes on local S4D
 
     ASSERT iv_numbering_mode EQ zif_flight_legacy=>numbering_mode-early OR
            iv_numbering_mode EQ zif_flight_legacy=>numbering_mode-late.
