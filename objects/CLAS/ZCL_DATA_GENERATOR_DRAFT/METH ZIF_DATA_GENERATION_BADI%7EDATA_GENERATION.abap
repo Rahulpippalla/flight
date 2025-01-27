@@ -30,7 +30,7 @@
     ).
 
 
-    " bookings
+    " bookings rahul
     out->write( ' --> ZA_BOOKING_D' ).
 
     DELETE FROM zdbooking_d.                       "#EC CI_NOWHERE

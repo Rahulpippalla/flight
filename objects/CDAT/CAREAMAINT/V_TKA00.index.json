@@ -1,0 +1,26 @@
+[
+ {
+  "table":"TKA00",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"KOKRS",
+      "value":"0001"
+     },
+     {
+      "key":"GJAHR",
+      "value":"2020"
+     }
+    ],
+    "hash":"ViU4PC37qpPs6lj7gy7WuGnXric="
+   }
+  ]
+ }
+]
