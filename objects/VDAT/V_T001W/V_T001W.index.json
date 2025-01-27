@@ -43,7 +43,21 @@
       "value":"RA03"
      }
     ],
-    "hash":"m4gE="
+    "hash":"ygAl85vCy1UMqBrqwETxHGzPIoc="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"WERKS",
+      "value":"RA03"
+     }
+    ],
+    "hash":"jwQWynPpuLPEB9s9kwNRUzpuR20="
    }
   ]
  }
