@@ -3,7 +3,7 @@
 
     " Numbering mode has to be either Early or Late.
 
-    " Demo Test 2
+    " Demo wb and cust local
 
     " changes on local S4D for res with TR - final changes
     " TEST
