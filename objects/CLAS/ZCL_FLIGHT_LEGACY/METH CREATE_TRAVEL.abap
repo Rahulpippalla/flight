@@ -5,7 +5,7 @@
 
     " Demo Test 2
 
-    " changes on local S4D for res with TR
+    " changes on local S4D for res with TR - final changes
     " TEST
 
     ASSERT iv_numbering_mode EQ zif_flight_legacy=>numbering_mode-early OR
