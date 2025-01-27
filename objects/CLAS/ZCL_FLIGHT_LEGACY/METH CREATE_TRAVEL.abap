@@ -6,7 +6,7 @@
     " Demo Test 2
     " changes on dev jan 27th - 2
 
-    " changes on local S4D
+    " changes on local S4D resolve with TR
     " TEST
 
     ASSERT iv_numbering_mode EQ zif_flight_legacy=>numbering_mode-early OR
