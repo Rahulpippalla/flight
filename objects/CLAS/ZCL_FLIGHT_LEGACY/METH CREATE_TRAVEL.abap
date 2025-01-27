@@ -3,9 +3,10 @@
 
     " Numbering mode has to be either Early or Late.
 
-    " Demo Test 2
+    " Conflict user story wb and cust git
 
     " changes on local S4D for res with TR - final changes
+
     " TEST
 
     ASSERT iv_numbering_mode EQ zif_flight_legacy=>numbering_mode-early OR
