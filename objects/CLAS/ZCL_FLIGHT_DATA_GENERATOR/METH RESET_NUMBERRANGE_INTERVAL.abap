@@ -3,7 +3,7 @@
     DATA interval_found TYPE c.
 
     TRY.
-"" RAHUL  - change 1
+"" RAHUL  - change 3
         cl_numberrange_intervals=>read(
           EXPORTING
             object       = numberrange_object
@@ -32,7 +32,7 @@
                 subobject = subobject ).
           ENDIF.
         ENDLOOP.
-"" RAHUL  - Change 2
+"" RAHUL  - Change 4
 *       Process the requested Interval
         CLEAR interval_found.
         LOOP AT intervals INTO interval.
