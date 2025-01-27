@@ -20,6 +20,36 @@
      },
      {
       "key":"OBJKEY",
+      "value":"1002000"
+     },
+     {
+      "key":"DATE_FROM",
+      "value":"00010101"
+     },
+     {
+      "key":"NATION",
+      "value":""
+     }
+    ],
+    "hash":"YfTjGCgPi/5YnFKcCb/i1FyiNA4="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"CLIENT",
+      "value":"___"
+     },
+     {
+      "key":"TABLENAME",
+      "value":"T001W"
+     },
+     {
+      "key":"FIELDNAME",
+      "value":"ADRNR"
+     },
+     {
+      "key":"OBJKEY",
       "value":"100RA02"
      },
      {
