@@ -53,7 +53,7 @@
               object    = numberrange_object
               subobject = subobject ).
 
-        ELSE.  "Requested Interval exists -> Update, if required
+        ELSE.  "Requested Interval exists -> Update, if required - Pippalla
           IF interval-nrlevel NE 0.
             interval-nrlevel = 0.
             interval-procind = 'U'.
